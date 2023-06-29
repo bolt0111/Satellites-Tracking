@@ -51,3 +51,6 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 2. Build and run the Docker container.\
    `sudo docker-compose up`
 3. The backend API will be available at http://localhost:8000.
+
+### Backend Unit Testing
+    mvn test
