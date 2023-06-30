@@ -19,7 +19,7 @@ Satellite Tracking App is a platform that allows users to track satellites orbit
 - Testing: JUnit, Mockito, Jest
 
 ## Clone repositiory
-   `clone https://github.com/secret-superstar922/Satellites-Tracking.git`
+   `git clone https://github.com/secret-superstar922/Satellites-Tracking.git`
   
 ## Frontend Set up
 
