@@ -18,12 +18,17 @@ Satellite Tracking App is a platform that allows users to track satellites orbit
 - Backend: Java, Docker, PostgreSQL
 - Testing: JUnit, Mockito, Jest
 
+## Clone repositiory
+   `clone https://github.com/secret-superstar922/Satellites-Tracking.git`
+  
 ## Frontend Set up
 
-1. Navigate the frontend diiectory\
+1. Navigate the frontend directory\
    `cd frontend`
 2. Install the dependencies using `npm`\
    `npm install`
+3. Copy env file\
+   `cp .env.example .env`
 
 ### Available Scripts
 ### `npm start`
